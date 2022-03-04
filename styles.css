@@ -1,0 +1,28 @@
+body{
+    background-color: #FFD233;
+    margin: 0;
+    padding: 0;
+}
+a {
+  color: #3b8bba;
+  text-decoration: none;
+}
+a:visited {
+  color: #265778;
+}
+.friends{
+    max-width: 250px;
+}
+iframe {
+    border: 0;
+    width:800px;
+    height: 800px;
+}
+.main-container{
+    padding-left: 10vw;
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+.hero-img{
+    width: 80vw;
+}
